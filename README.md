@@ -11,4 +11,5 @@ Tools used:
   * react MDL
   * react MDB
   * tachyons
+  * font-awesome
 
