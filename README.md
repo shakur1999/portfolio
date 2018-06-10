@@ -1,10 +1,10 @@
-To get it started: 
+# To get it started: 
 * git clone 
 * npm install
 * npm start
 
 
-Tools used:
+# Tools used:
   * react
   * react-dom
   * react-router
