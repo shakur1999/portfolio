@@ -1,7 +1,7 @@
 # To get it started: 
 * git clone 
-* npm install
-* npm start
+* `npm install`
+* `npm start`
 
 
 # Tools used:
