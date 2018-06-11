@@ -1,3 +1,4 @@
+this is a quick react-based about me page
 # To get it started: 
 * git clone 
 * `npm install`
