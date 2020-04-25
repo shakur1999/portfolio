@@ -52,6 +52,11 @@ class Resume extends Component {
               />
 
               <Experience
+                startYear={2018}
+                endYear={2019}
+                jobName="DevOps Engineer"
+                jobDescription=""
+                
                 startYear={2017}
                 endYear={2018}
                 jobName="Web Developer"
