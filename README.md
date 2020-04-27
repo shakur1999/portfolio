@@ -1,9 +1,9 @@
 this is a quick react-based about me page
 # To get it started: 
 * `git clone` repo URL
-* `npm install`
 * `cd into directory`
-* `npm start`
+* `npm install` # this is will install the deps needed
+* `npm start` # this is start up the nodeJS server locally
 
 
 # Tools used:
@@ -14,4 +14,5 @@ this is a quick react-based about me page
   * react MDB
   * tachyons
   * font-awesome
+  * draw.io
 
