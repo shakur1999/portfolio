@@ -27,7 +27,7 @@ class Resume extends Component {
             </div>
 
             <h2 style={{paddingTop: '2em'}}>Shakur Ahmed</h2>
-          <h4 style={{color: 'grey'}}>Up Coming Developer</h4>
+          <h4 style={{color: 'grey'}}>DevOps Engineer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <p>Highly motivated and hardworking individual whose been exposed to number of Full-Stack technologies such as HTML, CSS, FlexBox, KeyFrame, JavaScript, jQuery, React, Node, Express, AJAX, JSX, MySQL, MongoDB and more. Super hunger and eager to learn as much as possible from piers and rest of the people around me..</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
