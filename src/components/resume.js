@@ -32,9 +32,9 @@ class Resume extends Component {
             <p>Highly motivated and hardworking individual that worked with numberous and latest Full-Stack technologies such as HTML, CSS, FlexBox, KeyFrame, JavaScript, jQuery, React, Node, Express, AJAX, JSX, MySQL, MongoDB and more. Super hunger and eager to learn as much as possible from piers and rest of the people around me..</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
-          <p>550 18th St Oakland, CA 94612</p>
+          <p>Oakland, CA</p>
             <h5>Phone</h5>
-          <p>(415) 926-1183</p>
+          <p>(415) 926-2342</p>
             <h5>Email</h5>
           <p>ashakur1999@gmail.com</p>
             <h5>Web</h5>
